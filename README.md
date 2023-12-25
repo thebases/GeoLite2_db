@@ -6,9 +6,9 @@
 
 [GeoLite2-ASN.mmdb](https://github.com/unicubevn/GeoLite2_db/raw/download/GeoLite2-ASN.mmdb)
 
-[GeoLite2-City.mmdb](https://github.com/unicubevn/GeoLite2_db.mmdb/raw/download/GeoLite2-City.mmdb)
+[GeoLite2-City.mmdb](https://github.com/unicubevn/GeoLite2_db/raw/download/GeoLite2-City.mmdb)
 
-[GeoLite2-Country.mmdb](https://github.com/unicubevn/GeoLite2_db.mmdb/raw/download/GeoLite2-Country.mmdb)
+[GeoLite2-Country.mmdb](https://github.com/unicubevn/GeoLite2_db/raw/download/GeoLite2-Country.mmdb)
 
 ## License
 
